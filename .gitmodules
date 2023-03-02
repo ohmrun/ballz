@@ -1,0 +1,93 @@
+[submodule "haxe_modules/tink_stringly"]
+	path = haxe_modules/tink_stringly
+	url = https://github.com/haxetink/tink_streams.git
+[submodule "haxe_modules/tink_url"]
+	path = haxe_modules/tink_url
+	url = https://github.com/haxetink/tink_url.git
+[submodule "haxe_modules/tink_syntaxhub"]
+	path = haxe_modules/tink_syntaxhub
+	url = https://github.com/haxetink/tink_syntaxhub.git
+[submodule "haxe_modules/tink_state"]
+	path = haxe_modules/tink_state
+	url = https://github.com/haxetink/tink_state.git
+[submodule "haxe_modules/tink_runloop"]
+	path = haxe_modules/tink_runloop
+	url = https://github.com/haxetink/tink_runloop.git
+[submodule "haxe_modules/tink_pure"]
+	path = haxe_modules/tink_pure
+	url = https://github.com/haxetink/tink_pure.git
+[submodule "haxe_modules/tink_parse"]
+	path = haxe_modules/tink_parse
+	url = https://github.com/haxetink/tink_parse.git
+[submodule "haxe_modules/tink_macro"]
+	path = haxe_modules/tink_macro
+	url = https://github.com/haxetink/tink_macro.git
+[submodule "haxe_modules/tink_io"]
+	path = haxe_modules/tink_io
+	url = https://github.com/haxetink/tink_io.git
+[submodule "haxe_modules/tink_hxx"]
+	path = haxe_modules/tink_hxx
+	url = https://github.com/haxetink/tink_hxx.git
+[submodule "haxe_modules/tink_core"]
+	path = haxe_modules/tink_core
+	url = https://github.com/haxetink/tink_core.git
+[submodule "haxe_modules/tink_concurrent"]
+	path = haxe_modules/tink_concurrent
+	url = https://github.com/haxetink/tink_concurrent.git
+[submodule "haxe_modules/tink_chunk"]
+	path = haxe_modules/tink_chunk
+	url = https://github.com/haxetink/tink_chunk.git
+[submodule "haxe_modules/tink_anon"]
+	path = haxe_modules/tink_anon
+	url = https://github.com/haxetink/tink_anon.git
+[submodule "haxe_modules/spectatory"]
+	path = haxe_modules/spectatory
+	url = https://github.com/kevinresol/spectatory
+[submodule "haxe_modules/polygonal-printf"]
+	path = haxe_modules/polygonal-printf
+	url = https://github.com/polygonal/printf
+[submodule "haxe_modules/moon-run"]
+	path = haxe_modules/moon-run
+	url = https://github.com/profound7/moon-run
+[submodule "haxe_modules/hxmlparser"]
+	path = haxe_modules/hxmlparser
+	url = https://github.com/ohmrun/hxmlparser
+[submodule "haxe_modules/hx3compat"]
+	path = haxe_modules/hx3compat
+	url = https://github.com/haxeFoundation/hx3compat
+[submodule "haxe_modules/http-status"]
+	path = haxe_modules/http-status
+	url = https://github.com/kevinresol/http-status
+[submodule "haxe_modules/html-entities"]
+	path = haxe_modules/html-entities
+	url = https://github.com/back2dos/html-entities
+[submodule "haxe_modules/hscript"]
+	path = haxe_modules/hscript
+	url = https://github.com/HaxeFoundation/hscript
+[submodule "haxe_modules/hre"]
+	path = haxe_modules/hre
+	url = https://gitlab.com/demurgos/hre.git
+[submodule "haxe_modules/haxe-strings"]
+	path = haxe_modules/haxe-strings
+	url = https://github.com/vegardit/haxe-strings/
+[submodule "haxe_modules/haxe-files"]
+	path = haxe_modules/haxe-files
+	url = https://github.com/vegardit/haxe-strings/
+[submodule "haxe_modules/haxe-concurrent"]
+	path = haxe_modules/haxe-concurrent
+	url = https://github.com/vegardit/haxe-strings/
+[submodule "haxe_modules/equals"]
+	path = haxe_modules/equals
+	url = https://github.com/elnabo/equals/
+[submodule "haxe_modules/console.hx"]
+	path = haxe_modules/console.hx
+	url = https://github.com/0b1kn00b/console.hx
+[submodule "haxe_modules/coconut.ui"]
+	path = haxe_modules/coconut.ui
+	url = https://github.com/MVCoconut/coconut.ui
+[submodule "haxe_modules/coconut.data"]
+	path = haxe_modules/coconut.data
+	url = https://github.com/MVCoconut/coconut.ui
+[submodule ".haxelib/gsm/git"]
+	path = .haxelib/gsm/git
+	url = https://github.com/tobil4sk/haxe-git-submodule-manager/
