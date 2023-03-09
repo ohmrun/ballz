@@ -91,3 +91,6 @@
 [submodule ".haxelib/gsm/git"]
 	path = .haxelib/gsm/git
 	url = https://github.com/tobil4sk/haxe-git-submodule-manager/
+[submodule "haxe_modules/tink_priority"]
+	path = haxe_modules/tink_priority
+	url = https://github.com/haxetink/tink_priority.git
