@@ -88,6 +88,3 @@
 [submodule "haxe_modules/tink_priority"]
 	path = haxe_modules/tink_priority
 	url = https://github.com/haxetink/tink_priority.git
-[submodule "haxe_modules/haxe-concurrent"]
-	path = haxe_modules/haxe-concurrent
-	url = https://github.com/vegardit/haxe-concurrent/
