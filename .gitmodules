@@ -70,12 +70,6 @@
 [submodule "haxe_modules/haxe-strings"]
 	path = haxe_modules/haxe-strings
 	url = https://github.com/vegardit/haxe-strings/
-[submodule "haxe_modules/haxe-files"]
-	path = haxe_modules/haxe-files
-	url = https://github.com/vegardit/haxe-strings/
-[submodule "haxe_modules/haxe-concurrent"]
-	path = haxe_modules/haxe-concurrent
-	url = https://github.com/vegardit/haxe-strings/
 [submodule "haxe_modules/equals"]
 	path = haxe_modules/equals
 	url = https://github.com/elnabo/equals/

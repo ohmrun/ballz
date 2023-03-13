@@ -24,8 +24,8 @@ html-entities https://github.com/back2dos/html-entities
 hscript https://github.com/HaxeFoundation/hscript
 hre https://gitlab.com/demurgos/hre.git
 haxe-strings https://github.com/vegardit/haxe-strings/
-haxe-files https://github.com/vegardit/haxe-strings/
-haxe-concurrent https://github.com/vegardit/haxe-strings/
+haxe-files https://github.com/vegardit/haxe-files/
+haxe-concurrent https://github.com/vegardit/haxe-concurrent/
 equals https://github.com/elnabo/equals/
 console.hx https://github.com/0b1kn00b/console.hx
 coconut.ui https://github.com/MVCoconut/coconut.ui
