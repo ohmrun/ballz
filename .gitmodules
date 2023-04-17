@@ -1,6 +1,3 @@
-[submodule "haxe_modules/tink_stringly"]
-	path = haxe_modules/tink_stringly
-	url = https://github.com/haxetink/tink_streams.git
 [submodule "haxe_modules/tink_url"]
 	path = haxe_modules/tink_url
 	url = https://github.com/haxetink/tink_url.git
@@ -88,3 +85,39 @@
 [submodule "haxe_modules/tink_priority"]
 	path = haxe_modules/tink_priority
 	url = https://github.com/haxetink/tink_priority.git
+[submodule "haxe_modules/haxe-concurrent"]
+	path = haxe_modules/haxe-concurrent
+	url = https://github.com/vegardit/haxe-concurrent/
+[submodule "haxe_modules/haxe-files"]
+	path = haxe_modules/haxe-files
+	url = https://github.com/vegardit/haxe-files/
+[submodule "haxe_modules/dox"]
+	path = haxe_modules/dox
+	url = https://github.com/HaxeFoundation/dox
+[submodule "haxe_modules/hxargs"]
+	path = haxe_modules/hxargs
+	url = https://github.com/Simn/hxargs
+[submodule "haxe_modules/hxtemplo"]
+	path = haxe_modules/hxtemplo
+	url = https://github.com/Simn/hxtemplo
+[submodule "haxe_modules/ammer"]
+	path = haxe_modules/ammer
+	url = https://github.com/Aurel300/ammer.git
+[submodule "haxe_modules/tink_typecrawler"]
+	path = haxe_modules/tink_typecrawler
+	url = https://github.com/haxetink/tink_typecrawler.git
+[submodule "haxe_modules/kiss"]
+	path = haxe_modules/kiss
+	url = https://github.com/0b1kn00b/kisslang/
+[submodule "haxe_modules/tink_json"]
+	path = haxe_modules/tink_json
+	url = https://github.com/haxetink/tink_json.git
+[submodule "haxe_modules/uuid"]
+	path = haxe_modules/uuid
+	url = https://github.com/flashultra/uuid
+[submodule "haxe_modules/tink_slice"]
+	path = haxe_modules/tink_slice
+	url = https://github.com/haxetink/tink_slice.git
+[submodule "haxe_modules/tink_streams"]
+	path = haxe_modules/tink_streams
+	url = https://github.com/haxetink/tink_streams.git
