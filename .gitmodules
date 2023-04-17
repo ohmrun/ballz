@@ -121,3 +121,6 @@
 [submodule "haxe_modules/tink_streams"]
 	path = haxe_modules/tink_streams
 	url = https://github.com/haxetink/tink_streams.git
+[submodule "haxe_modules/tink_stringly"]
+	path = haxe_modules/tink_stringly
+	url = https://github.com/haxetink/tink_stringly.git
