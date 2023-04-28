@@ -124,3 +124,6 @@
 [submodule "haxe_modules/tink_stringly"]
 	path = haxe_modules/tink_stringly
 	url = https://github.com/haxetink/tink_stringly.git
+[submodule "haxe_modules/bake"]
+	path = haxe_modules/bake
+	url = https://github.com/ohmrun/bake.git
