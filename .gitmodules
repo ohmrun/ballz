@@ -61,12 +61,6 @@
 [submodule "haxe_modules/hscript"]
 	path = haxe_modules/hscript
 	url = https://github.com/HaxeFoundation/hscript
-[submodule "haxe_modules/hre"]
-	path = haxe_modules/hre
-	url = https://gitlab.com/demurgos/hre.git
-[submodule "haxe_modules/haxe-strings"]
-	path = haxe_modules/haxe-strings
-	url = https://github.com/vegardit/haxe-strings/
 [submodule "haxe_modules/equals"]
 	path = haxe_modules/equals
 	url = https://github.com/elnabo/equals/
@@ -85,12 +79,6 @@
 [submodule "haxe_modules/tink_priority"]
 	path = haxe_modules/tink_priority
 	url = https://github.com/haxetink/tink_priority.git
-[submodule "haxe_modules/haxe-concurrent"]
-	path = haxe_modules/haxe-concurrent
-	url = https://github.com/vegardit/haxe-concurrent/
-[submodule "haxe_modules/haxe-files"]
-	path = haxe_modules/haxe-files
-	url = https://github.com/vegardit/haxe-files/
 [submodule "haxe_modules/dox"]
 	path = haxe_modules/dox
 	url = https://github.com/HaxeFoundation/dox
@@ -127,3 +115,6 @@
 [submodule "haxe_modules/bake"]
 	path = haxe_modules/bake
 	url = https://github.com/ohmrun/bake.git
+[submodule "haxe_modules/hxnodejs"]
+	path = haxe_modules/hxnodejs
+	url = https://github.com/HaxeFoundation/hxnodejs
