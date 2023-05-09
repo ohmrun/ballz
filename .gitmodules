@@ -45,7 +45,7 @@
 	url = https://github.com/polygonal/printf
 [submodule "haxe_modules/moon-run"]
 	path = haxe_modules/moon-run
-	url = https://github.com/profound7/moon-run
+	url = https://github.com/0b1kn00b/moon-run
 [submodule "haxe_modules/hxmlparser"]
 	path = haxe_modules/hxmlparser
 	url = https://github.com/ohmrun/hxmlparser
