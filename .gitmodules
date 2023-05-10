@@ -63,7 +63,7 @@
 	url = https://github.com/HaxeFoundation/hscript
 [submodule "haxe_modules/equals"]
 	path = haxe_modules/equals
-	url = https://github.com/elnabo/equals/
+	url = https://github.com/0b1kn00b/equals/
 [submodule "haxe_modules/console.hx"]
 	path = haxe_modules/console.hx
 	url = https://github.com/0b1kn00b/console.hx
@@ -117,4 +117,4 @@
 	url = https://github.com/ohmrun/bake.git
 [submodule "haxe_modules/hxnodejs"]
 	path = haxe_modules/hxnodejs
-	url = https://github.com/HaxeFoundation/hxnodejs
+	url = https://github.com/ohmrun/hxnodejs
