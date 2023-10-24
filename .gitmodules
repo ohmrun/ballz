@@ -138,7 +138,7 @@
 	url = https://github.com/core-haxe/queues-rabbitmq.git
 [submodule "haxe_modules/rabbitmq"]
 	path = haxe_modules/rabbitmq
-	url = https://github.com/core-haxe/rabbitmq.git
+	url = https://github.com/0b1kn00b/rabbitmq.git
 [submodule "haxe_modules/promises"]
 	path = haxe_modules/promises
 	url = https://github.com/core-haxe/promises.git
