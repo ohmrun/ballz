@@ -34,3 +34,5 @@ queues-core https://github.com/core-haxe/queues-core.git
 queues-rabbitmq https://github.com/core-haxe/queues-rabbitmq.git
 rabbitmq https://github.com/core-haxe/rabbitmq.git
 promises https://github.com/core-haxe/promises.git
+serializers https://github.com/core-haxe/serializers
+hxStomp git@github.com:ohmrun/hxStomp.git

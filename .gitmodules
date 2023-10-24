@@ -142,3 +142,9 @@
 [submodule "haxe_modules/promises"]
 	path = haxe_modules/promises
 	url = https://github.com/core-haxe/promises.git
+[submodule "haxe_modules/serializers"]
+	path = haxe_modules/serializers
+	url = https://github.com/core-haxe/serializers
+[submodule "haxe_modules/hxStomp"]
+	path = haxe_modules/hxStomp
+	url = git@github.com:ohmrun/hxStomp.git
