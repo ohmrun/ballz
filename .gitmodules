@@ -45,7 +45,7 @@
 	url = https://github.com/polygonal/printf
 [submodule "haxe_modules/moon-run"]
 	path = haxe_modules/moon-run
-	url = https://github.com/0b1kn00b/moon-run
+	url = https://github.com/profound7/moon-run
 [submodule "haxe_modules/hxmlparser"]
 	path = haxe_modules/hxmlparser
 	url = https://github.com/ohmrun/hxmlparser
@@ -63,7 +63,7 @@
 	url = https://github.com/HaxeFoundation/hscript
 [submodule "haxe_modules/equals"]
 	path = haxe_modules/equals
-	url = https://github.com/0b1kn00b/equals/
+	url = https://github.com/elnabo/equals/
 [submodule "haxe_modules/console.hx"]
 	path = haxe_modules/console.hx
 	url = https://github.com/0b1kn00b/console.hx
@@ -111,10 +111,34 @@
 	url = https://github.com/haxetink/tink_streams.git
 [submodule "haxe_modules/tink_stringly"]
 	path = haxe_modules/tink_stringly
-	url = https://github.com/haxetink/tink_stringly.git
+	url = https://github.com/haxetink/tink_streams.git
 [submodule "haxe_modules/bake"]
 	path = haxe_modules/bake
 	url = https://github.com/ohmrun/bake.git
 [submodule "haxe_modules/hxnodejs"]
 	path = haxe_modules/hxnodejs
 	url = https://github.com/ohmrun/hxnodejs
+[submodule "haxe_modules/hre"]
+	path = haxe_modules/hre
+	url = https://gitlab.com/demurgos/hre.git
+[submodule "haxe_modules/haxe-strings"]
+	path = haxe_modules/haxe-strings
+	url = https://github.com/vegardit/haxe-strings/
+[submodule "haxe_modules/haxe-files"]
+	path = haxe_modules/haxe-files
+	url = https://github.com/vegardit/haxe-files/
+[submodule "haxe_modules/haxe-concurrent"]
+	path = haxe_modules/haxe-concurrent
+	url = https://github.com/vegardit/haxe-concurrent/
+[submodule "haxe_modules/queues-core"]
+	path = haxe_modules/queues-core
+	url = https://github.com/core-haxe/queues-core.git
+[submodule "haxe_modules/queues-rabbitmq"]
+	path = haxe_modules/queues-rabbitmq
+	url = https://github.com/core-haxe/queues-rabbitmq.git
+[submodule "haxe_modules/rabbitmq"]
+	path = haxe_modules/rabbitmq
+	url = https://github.com/core-haxe/rabbitmq.git
+[submodule "haxe_modules/promises"]
+	path = haxe_modules/promises
+	url = https://github.com/core-haxe/promises.git
